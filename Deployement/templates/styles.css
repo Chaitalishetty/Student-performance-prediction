@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Satisfy&display=swap');
+.heading{
+    font-size: 65px;
+    font-family: 'Satisfy', cursive !important;
+}
+.marks_pred{
+    display: flex;
+    justify-content: space-evenly;
+}
+.marks_pred form {
+    width: 40vw;
+    padding: 20px;
+    background-color: #dfdcdc;
+}
+.marks_pred label{
+    font-size: 30px;
+    color:#606060;
+}
+.marks_form{
+    display: flex;
+    align-items: center;
+}
